@@ -15,7 +15,7 @@ This program is a command line version of Ultimate Tic Tac Toe for two players w
 - [X] **For all subsequent turns, players can only choose which box; the board is determined by the box the previous player picked (unless that board is full, in which case the player can pick any board)**
 - [X] **Keeps track of the results and winners of each of the 9 mini boards as well as the main board**
 - [X] **Determines if a board or particular box is already full and if a board already has a winner**
-- [X) **Keeps track of the box chosen by the previous player**
+- [X] **Keeps track of the box chosen by the previous player**
 
 
 ## Design
